@@ -13,7 +13,7 @@ Used TFX Components
   
 Tensorflow serving is used for the deployement   
 
-Module file includes the util funcitons 
+Module file includes the util functions  
   
 #The dataset 
 This example uses the kaggle tomato dataset (https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
