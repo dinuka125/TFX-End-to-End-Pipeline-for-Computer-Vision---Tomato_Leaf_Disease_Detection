@@ -16,7 +16,8 @@ Tensorflow serving is used for the deployement
 #The dataset 
    This example uses the kaggle tomato dataset (https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
    
-#For the Orchestrators Apache Airflow and Apache beam have been used    
+ - Orchestrators - Apache Airflow and Apache beam    
 The Airflow_pipe_tomato-Dag file.py includes the pipeline with - Airflow orchestrator configurations
+
 The TFX_Production_Pipeline_for_Tomato_Leaf_Disease_Detection includes the pipeline withe - Beam Orchestrator configurations
    
