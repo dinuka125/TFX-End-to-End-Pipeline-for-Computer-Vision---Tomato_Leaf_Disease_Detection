@@ -12,6 +12,8 @@ Used TFX Components
    - Pusher deploys the model to a serving infrastructure.
   
 Tensorflow serving is used for the deployement   
+
+Module file includes the util funcitons 
   
 #The dataset 
 This example uses the kaggle tomato dataset (https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
