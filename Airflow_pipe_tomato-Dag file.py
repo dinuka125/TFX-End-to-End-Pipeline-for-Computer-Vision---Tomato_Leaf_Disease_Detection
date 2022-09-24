@@ -78,7 +78,7 @@ def init_components(data_root, module_file, serving_model_dir,
                   class_name='SparseCategoricalAccuracy',
                   threshold=tfma.MetricThreshold(
                       value_threshold=tfma.GenericValueThreshold(
-                          lower_bound={'value': 0.4})))
+                          lower_bound={'value': 0.8})))
           ])
       ])
   
